@@ -1,0 +1,24 @@
+{
+	"cars": [
+		{
+			"id":"0e605320-872b-11ec-8629-7d3509d531c0",
+			"manufacturer":"Volvo",
+			"type":"V40",
+			"engineCapactiy":2000,
+			"color":"Black",
+			"bodyStyle":"5-door hatchback",
+			"manufactureDate":"2019-06-30T22:00:00.000Z",
+			"manufacturerWebSite":"https://www.volvocars.com/uk"
+		},
+		{
+			"id":"0e607a30-872b-11ec-8629-7d3509d531c0",
+			"manufacturer":"BMW",
+			"type":"X1",
+			"engineCapactiy":2000,
+			"color":"White",
+			"bodyStyle":"SUV",
+			"manufactureDate":"2020-06-01T22:00:00.000Z",
+			"manufacturerWebSite":"https://www.bmw.com/en/index.html"
+		}
+	]
+}

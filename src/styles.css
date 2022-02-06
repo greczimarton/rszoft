@@ -1,0 +1,23 @@
+.textField {
+    margin-left: 500px;
+}
+
+.body {
+    padding: 0 20%;
+}
+
+.label {
+    padding-left: 30px;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.ShowButton {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
